@@ -1,3 +1,3 @@
 # cpp
-Oops programs
-c++ programs
+Object oriented programming through cpp
+
